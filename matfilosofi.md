@@ -1,7 +1,8 @@
 ---
 description: >-
   Varför lagar vi den maten vi gör? Hur tänker vi kring ekologiskt, vegetariskt,
-  regionalt?
+  regionalt? Behöver vi verkligen ha så mycket kött på tallriken? Vilken tid på
+  året smakar råvarorna bäst?
 ---
 
 # Matfilosofi
@@ -10,13 +11,11 @@ description: >-
 
 {% file src=".gitbook/assets/ffe-matfilosofi-2018.pdf" caption="Ladda ned" %}
 
-* Mat i säsong
-* Regional och lokal mat
-* Hög andel ekologiskt
-* Mer grönt och mindre kött på tallriken
-* Allt kött krav-märkt
-* All fisk MSC-märkt
-* Nollvision för svinn 
+* Mat i säsong 
+* Regional och lokal mat 
+* Hög andel ekologiskt 
+* Mer grönt och mindre kött på tallriken 
+* Nollvision för svinn
 
 Ingen kan göra allt men alla kan göra något! Färgfabrikens matfilosofi tar avstamp i ett hållbarhetsarbete som i grunden handlar om att göra medvetna val och att fundera över hur de valen påverkar planeten, den egna hälsan och människorna runt omkring oss.
 
