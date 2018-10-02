@@ -12,7 +12,6 @@ description: Logg för genomförda åtgärder.
 * Regional och lokal mat
 * Hög andel ekologiskt
 * Mer grönt och mindre kött på tallriken
-* Allt kött krav-märkt
 * All fisk MSC-märkt
 * Nollvision för svinn
 

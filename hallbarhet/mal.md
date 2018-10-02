@@ -44,6 +44,13 @@ Förpackningsmaterial
 
 * Minskad användning
 * Komposterbart engångsmaterial
+* Förnyelsebar råvara
+
+Förpackningsmaterial
+
+* Minskad användning
+* Komposterbara förbrukningsmaterial
+* Förnyelsebar råvara
 
 Öka andel ekologiskt på menyn 
 
@@ -52,11 +59,13 @@ Förpackningsmaterial
 Svinn
 
 * Nollvision på svinn
+* Arbeta kontinuerligt med menyer, portionsstorlekar etc
 
 Rengöringsmedel
 
 * Minskad användning
-* Miljövänliga alternativ
+* Miljövänliga alternativ - Svanenmärkning
+* Människovänliga alternativ
 
 Avfall / återvinning / återanvändning
 
