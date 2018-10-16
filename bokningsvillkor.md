@@ -6,7 +6,7 @@ description: Villkor som gäller för alla kundevenmang på Färgfabriken.
 
 2018-02-20
 
-{% file src=".gitbook/assets/20180220-bokningsvillkor-ffe.pdf" caption="Ladda ned" %}
+{% file src=".gitbook/assets/ffe-bokningsvillkor.pdf" caption="Ladda ned" %}
 
 ## 1. Offert och betalningsvillkor
 
@@ -24,7 +24,7 @@ Färgfabriken Evenemang förbehåller sig rätten att debitera ytterligare förs
 
 Debiterade förskott återbetalas ej vid avbeställning.
 
-### 1.3.  Avbeställning
+### 1.3. Avbeställning
 
 Slutgiltigt antal gäster, kostavvikelser och mat till personal, artister och andra ska vara Färgfabriken Evenemang tillhanda senast två veckor innan genomförandet. Extra beställningar av mat och dryck på plats tillgodoses i den mån möjlighet finns.
 
@@ -144,8 +144,7 @@ Färgfabriken Evenemang är uppkopplat till internet via en 100/100 mb fiber.
 
 Öppna trådlösa nätverk tillhandahålls på varje våningsplan.
 
-Uppkoppling via nätverkskabel kan ordnas efter överenskommelse.  
-
+Uppkoppling via nätverkskabel kan ordnas efter överenskommelse.
 
 ## **4. Regler, rutiner och säkerhet**
 
@@ -185,14 +184,8 @@ Beställaren ansvarar för att förmedla dessa bokningsvillkor till samtliga und
 
 Färgfabriken Evenemang ansvarar ej för kunds egendom eller egendom som Färgfabriken Evenmang hyrt in för kunds räkning. Kundens försäkringar skall gälla.
 
-## **6. Force majeure**  
+## **6. Force majeure**
 
-Färgfabriken Evenemang fritar sig från skyldighet att fullgöra sin del av avtalet och från skyldighet att erlägga skadestånd om dess åtaganden inte alls eller endast till onormalt hög kostnad kan fullgöras pga krig, upplopp, myndighets åtgärd eller underlåtenhet, nytillkommen eller ändrad lagstiftning, konflikt på arbetsmarknaden, blockad, brand, översvämning, explosion, knapphet på transportmedel, varor eller energi, olyckshändelse av större omfattning, fel i eller försening av leverans från underleverantör orsakad av sådan befriande omständighet, övriga yttre omständigheter som Färgfabriken Evenemang inte kan påverka.  
-  
-  
-  
-  
-  
-  
-****
+Färgfabriken Evenemang fritar sig från skyldighet att fullgöra sin del av avtalet och från skyldighet att erlägga skadestånd om dess åtaganden inte alls eller endast till onormalt hög kostnad kan fullgöras pga krig, upplopp, myndighets åtgärd eller underlåtenhet, nytillkommen eller ändrad lagstiftning, konflikt på arbetsmarknaden, blockad, brand, översvämning, explosion, knapphet på transportmedel, varor eller energi, olyckshändelse av större omfattning, fel i eller försening av leverans från underleverantör orsakad av sådan befriande omständighet, övriga yttre omständigheter som Färgfabriken Evenemang inte kan påverka.
 
+---

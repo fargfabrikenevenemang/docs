@@ -30,7 +30,7 @@ description: Logg för genomförda åtgärder.
 - Mat i säsong
 - Regional och lokal mat
 - Hög andel ekologiskt
-- Mer grönt och mindre kött på tallriken
+- Mer grönt och mindre kött på tallriken
 - All fisk MSC-märkt
 - Nollvision för svinn
 
@@ -54,9 +54,7 @@ description: Logg för genomförda åtgärder.
 
 - Pappersdukar i pappersåtervinning istället för sopor
 
-## 2018-01
-
-### Ökning av andel vegetarisk mat i fasta menyermed
+### Ökning av andel vegetarisk mat i fasta menyer
 
 - Ökning med 15% under senaste året
 
