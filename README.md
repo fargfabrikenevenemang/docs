@@ -6,19 +6,15 @@ Letar du efter information om konstverksamheten i huset? Då bör du rikta blick
 
 ### Om denna sajt
 
-På denna sajt försöker vi samla så mycket dokumentation kring verksamheten som möjligt. Vi tror på öppenhet och tydlighet och delar därför information bl.a. om vårt interna hållbarhetsarbete. Eller rättare sagt, vi menar att ökad öppenhet och offentlig redovisning är en superviktig del av just hållbarhetsarbetet. 
+På denna sajt försöker vi samla så mycket dokumentation kring verksamheten som möjligt. Vi tror på öppenhet och tydlighet och delar därför information bl.a. om vårt interna hållbarhetsarbete. Eller rättare sagt, vi menar att ökad öppenhet och offentlig redovisning är en superviktig del av just hållbarhetsarbetet.
 
 Här hittar du också prislistor, bokningsvillkor, etc samlat på en tydlig plats.
 
 ### Innehållsförteckning
 
+[Bokningsvillkor](bokningsvillkor.md)
 [Hållbarhet](hallbarhet/)
-
-[Matfilosofi](matfilosofi.md)
-
+[Kärna](karna.md)
 [Likabehandlingspolicy](likabehandlingspolicy.md)
-
-...
-
-
-
+[Matfilosofi](matfilosofi.md)
+[Ritningar](ritningar.md)

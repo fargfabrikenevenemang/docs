@@ -2,11 +2,11 @@
 description: Ritningar för samliga lokaler.
 ---
 
-# Lokaler
+# Ritningar
 
 Foton, exempel på genomförda evenemang, etc hittar du på [http://fargfabrikenevenemang.se/lokaler](http://fargfabrikenevenemang.se/lokaler).
 
-{% file src="../.gitbook/assets/ffe-ritning.zip" caption="Samtliga ritningar (inklusive DWG-format)" %}
+{% file src="../.gitbook/assets/ffe-ritningar.zip" caption="Samtliga ritningar (inklusive DWG-format)" %}
 
 ### Plan 0
 
@@ -26,4 +26,4 @@ Foton, exempel på genomförda evenemang, etc hittar du på [http://fargfabriken
 
 ### Plan 2
 
-{% file src="../.gitbook/assets/ffk-ritning-takvaningen.pdf" caption="Ritning - Takvåningen" %}
+{% file src="../.gitbook/assets/ffe-ritning-takvaningen.pdf" caption="Ritning - Takvåningen" %}
