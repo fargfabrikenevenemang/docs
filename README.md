@@ -12,9 +12,9 @@ Här hittar du också prislistor, bokningsvillkor, etc samlat på en tydlig plat
 
 ### Innehållsförteckning
 
-[Bokningsvillkor](bokningsvillkor.md)
-[Hållbarhet](hallbarhet/)
-[Kärna](karna.md)
-[Likabehandlingspolicy](likabehandlingspolicy.md)
-[Matfilosofi](matfilosofi.md)
-[Ritningar](ritningar.md)
+- [Bokningsvillkor](bokningsvillkor.md)
+- [Hållbarhet](hallbarhet/)
+- [Kärna](karna.md)
+- [Likabehandlingspolicy](likabehandlingspolicy.md)
+- [Matfilosofi](matfilosofi.md)
+- [Ritningar](ritningar.md)

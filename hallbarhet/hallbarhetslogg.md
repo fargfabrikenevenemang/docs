@@ -61,3 +61,9 @@ description: Logg för genomförda åtgärder.
 ## 2016-01
 
 ### Inför sopsortering av matavfall/kopmposterbart
+
+## Sen gammalt
+
+### Kollektivavtal
+
+- All personal omfattas av kollektivavtal [https://www.schystavillkor.se](https://www.schystavillkor.se)
