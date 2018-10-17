@@ -1,7 +1,3 @@
----
-description: 'Beskrivning av vårt hållbarhetsarbete, logg över genomförda åtgärder.'
----
-
 # Hållbarhet
 
 Färgfabriken har en viktig roll att spela som hållbar samhällsaktör. Färgfabriken är en respekterad röst i samhällsdebatten och en viktig institution med stor möjlighet att påverka partners, konstnärer m.fl. genom de täta samarbeten som knyts kring varje projekt.
