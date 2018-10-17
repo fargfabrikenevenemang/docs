@@ -1,8 +1,5 @@
 ---
-description: >-
-  Varför lagar vi den maten vi gör? Hur tänker vi kring ekologiskt, vegetariskt,
-  regionalt? Behöver vi verkligen ha så mycket kött på tallriken? Vilken tid på
-  året smakar råvarorna bäst?
+description: 'Varför lagar vi den maten vi gör? Hur tänker vi kring ekologiskt, vegetariskt, regionalt? Behöver vi verkligen ha så mycket kött på tallriken? Vilken tid på året smakar råvarorna bäst?'
 ---
 
 # Matfilosofi

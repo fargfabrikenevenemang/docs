@@ -1,5 +1,5 @@
 ---
-description: Villkor som gäller för alla kundevenmang på Färgfabriken.
+description: 'Villkor som gäller för alla kundevenemang på Färgfabriken.'
 ---
 
 # Bokningsvillkor

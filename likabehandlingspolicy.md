@@ -1,5 +1,5 @@
 ---
-description: Hur vi strävar att behandla varandra - gäster och personal.
+description: 'Hur vi strävar att behandla varandra - gäster och personal.'
 ---
 
 # Likabehandlingspolicy

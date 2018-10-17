@@ -1,5 +1,5 @@
 ---
-description: Logg för genomförda åtgärder.
+description: 'Logg för genomförda åtgärder.'
 ---
 
 # Hållbarhetslogg

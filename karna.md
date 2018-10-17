@@ -1,5 +1,5 @@
 ---
-description: Varför finns vi, vad gör vi, vem gör vi det för, hur gör vi det, m.m.
+description: 'Varför finns vi, vad gör vi, vem gör vi det för, hur gör vi det?'
 ---
 
 # Kärna
