@@ -12,7 +12,11 @@ Foton, exempel på genomförda evenemang, etc hittar du på [http://fargfabriken
 
 {% file src=".gitbook/assets/ffe-ritning-plan-0.pdf" caption="Ritning - Hela plan 0" %}
 
+{% file src=".gitbook/assets/ffe-ritning-kafeet.pdf" caption="Ritning - Kaféet" %}
+
 {% file src=".gitbook/assets/ffe-ritning-lilla-salen.pdf" caption="Ritning - Lilla salen" %}
+
+{% file src=".gitbook/assets/ffe-ritning-smedjan.pdf" caption="Ritning - Smedjan" %}
 
 ## Plan 1
 
@@ -22,3 +26,4 @@ Foton, exempel på genomförda evenemang, etc hittar du på [http://fargfabriken
 
 ## Plan 2
 
+{% file src=".gitbook/assets/ffe-ritning-takvaningen.pdf" caption="Ritning - Takvåningen" %}
