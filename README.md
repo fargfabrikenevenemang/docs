@@ -12,9 +12,26 @@ Här hittar du också prislistor, bokningsvillkor, etc samlat på en tydlig plat
 
 ### Innehållsförteckning
 
-- [Kärna](karna.md)
-- [Matfilosofi](matfilosofi.md)
-- [Hållbarhet](hallbarhet/)
-- [Ritningar](ritningar.md)
-- [Bokningsvillkor](bokningsvillkor.md)
-- [Likabehandlingspolicy](likabehandlingspolicy.md)
+### [Kärna](karna.md)
+
+Varför finns vi, vad gör vi, vem gör vi det för, hur gör vi det?
+
+### [Matfilosofi](matfilosofi.md)
+
+Vilken mat lagar vi och varför? Hur tänker vi kring ekologi, lokal matproduktion, portionsstorlekar, andel grönt på tallriken?
+
+### [Hållbarhet](hallbarhet/)
+
+Våra hållbarhetsmål och en logg över genomförda åtgärder.
+
+### [Ritningar](ritningar.md)
+
+Skalenliga ritningar som PDF och i DWG-format.
+
+### [Bokningsvillkor](bokningsvillkor.md)
+
+Dessa villkor gäller när du bokar hos oss. I villkoren skriver vi en del om teknik, el, tider osv, läs gärna!
+
+### [Likabehandlingspolicy](likabehandlingspolicy.md)
+
+Framtagen tillsammans med Stiftelsen Färgfabriken.
