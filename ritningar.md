@@ -12,18 +12,18 @@ Foton, exempel på genomförda evenemang, etc hittar du på [http://fargfabriken
 
 [Ritning - Hela plan 0](https://fargfabrikenevenemang.se/ffe-ritning-plan-0.pdf)
 
-{% file src="https://fargfabrikenevenemang.se/ffe-ritning-kafeet.pdf" caption="Ritning - Kaféet" %}
+[Ritning - Kaféet](https://fargfabrikenevenemang.se/ffe-ritning-kafeet.pdf)
 
-{% file src="https://fargfabrikenevenemang.se/ffe-ritning-lilla-salen.pdf" caption="Ritning - Lilla salen" %}
+[Ritning - Lilla salen](https://fargfabrikenevenemang.se/ffe-ritning-lilla-salen.pdf)
 
-{% file src="https://fargfabrikenevenemang.se/ffe-ritning-smedjan.pdf" caption="Ritning - Smedjan" %}
+[Ritning - Smedjan](https://fargfabrikenevenemang.se/ffe-ritning-smedjan.pdf)
 
 ## Plan 1
 
-{% file src="https://fargfabrikenevenemang.se/ffe-ritning-plan-1.pdf" caption="Ritning - Plan 0" %}
+[Ritning - Plan 0](https://fargfabrikenevenemang.se/ffe-ritning-plan-1.pdf)
 
-{% file src="https://fargfabrikenevenemang.se/ffe-ritning-stora-salen.pdf" caption="Ritning - Stora salen" %}
+[Ritning - Stora salen](https://fargfabrikenevenemang.se/ffe-ritning-stora-salen.pdf)
 
 ## Plan 2
 
-{% file src="https://fargfabrikenevenemang.se/ffe-ritning-takvaningen.pdf" caption="Ritning - Takvåningen" %}
+[Ritning - Takvåningen](https://fargfabrikenevenemang.se/ffe-ritning-takvaningen.pdf)

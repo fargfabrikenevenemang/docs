@@ -4,7 +4,7 @@ description: Hur vi strävar att behandla varandra - gäster och personal.
 
 # Likabehandlingspolicy
 
-{% file src=".gitbook/assets/ffe-likabehandlingspolicy.pdf" caption="Ladda ned" %}
+[https://fargfabrikenevenemang.se/ffe-likabehandlingspolicy.pdf](https://fargfabrikenevenemang.se/ffe-likabehandlingspolicy.pdf)
 
 ## Diskriminering
 
@@ -23,4 +23,3 @@ Färgfabriken arbetar systematiskt med att förbättra arbetsmiljön för våra 
 Trivseln på arbetet är viktig för våra medarbetares hälsa. Såväl den fysiska som den psykosociala arbetsmiljön ska vara tillfredsställande.
 
 Vi strävar efter att alla, oavsett arbetsuppgift, ska ges möjlighet till både inflytande och utveckling. Färgfabriken har det yttersta ansvaret för arbetsmiljön och varje medarbetare har även ett eget ansvar att bidra till en bra arbetsmiljö.
-

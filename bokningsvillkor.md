@@ -6,7 +6,7 @@ description: Villkor som gäller för alla kundevenemang på Färgfabriken.
 
 2018-02-20
 
-{% file src=".gitbook/assets/ffe-bokningsvillkor.pdf" caption="Ladda ned" %}
+[https://fargfabrikenevenemang.se/ffe-bokningsvillkor.pdf](https://fargfabrikenevenemang.se/ffe-bokningsvillkor.pdf)
 
 ## 1. Offert och betalningsvillkor
 
@@ -150,9 +150,9 @@ Uppkoppling via nätverkskabel kan ordnas efter överenskommelse.
 
 Följande ska meddelas via e-post till kontaktperson på Färgfabriken Evenemang senast 14 dagar innan arrangemanget:
 
-* Kontaktuppgifter till ansvarig för teknik och riggning samt andra underleverantörer.
-* Teknikspecifikation och skiss över placering av scener, ljud, ljus och övrig teknik.
-* Körschema med tider för leveranser, hämtningar, upp- och nerrigg, genrep, soundcheck, förtäring för personal och arrangemangets upplägg.
+- Kontaktuppgifter till ansvarig för teknik och riggning samt andra underleverantörer.
+- Teknikspecifikation och skiss över placering av scener, ljud, ljus och övrig teknik.
+- Körschema med tider för leveranser, hämtningar, upp- och nerrigg, genrep, soundcheck, förtäring för personal och arrangemangets upplägg.
 
 ### **4.1. Brandsäkerhet**
 
@@ -185,4 +185,3 @@ Färgfabriken Evenemang ansvarar ej för kunds egendom eller egendom som Färgfa
 ## **6. Force majeure**
 
 Färgfabriken Evenemang fritar sig från skyldighet att fullgöra sin del av avtalet och från skyldighet att erlägga skadestånd om dess åtaganden inte alls eller endast till onormalt hög kostnad kan fullgöras pga krig, upplopp, myndighets åtgärd eller underlåtenhet, nytillkommen eller ändrad lagstiftning, konflikt på arbetsmarknaden, blockad, brand, översvämning, explosion, knapphet på transportmedel, varor eller energi, olyckshändelse av större omfattning, fel i eller försening av leverans från underleverantör orsakad av sådan befriande omständighet, övriga yttre omständigheter som Färgfabriken Evenemang inte kan påverka.
-
