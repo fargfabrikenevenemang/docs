@@ -6,11 +6,11 @@ description: Skalenliga ritningar som PDF och i DWG-format.
 
 Foton, exempel på genomförda evenemang, etc hittar du på [http://fargfabrikenevenemang.se/lokaler](http://fargfabrikenevenemang.se/lokaler).
 
-{% file src="https://fargfabrikenevenemang.se/ffe-ritningar.zip" caption="Samtliga ritningar \(inklusive DWG-format\)" %}
+[Samtliga ritningar \(inklusive DWG-format\)](https://fargfabrikenevenemang.se/ffe-ritningar.zip)
 
 ## Plan 0
 
-{% file src="https://fargfabrikenevenemang.se/ffe-ritning-plan-0.pdf" caption="Ritning - Hela plan 0" %}
+[Ritning - Hela plan 0](https://fargfabrikenevenemang.se/ffe-ritning-plan-0.pdf)
 
 {% file src="https://fargfabrikenevenemang.se/ffe-ritning-kafeet.pdf" caption="Ritning - Kaféet" %}
 
