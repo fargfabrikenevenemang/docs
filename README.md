@@ -14,13 +14,13 @@ Letar du efter information om konstverksamheten i huset? Då bör du rikta blick
 
 ### [Kärna](karna.md)
 
-Varför finns vi, vad gör vi, vem gör vi det för, hur gör vi det?
+♻️ Varför finns vi, vad gör vi, vem gör vi det för, hur gör vi det?
 
 ### [Matfilosofi](matfilosofi.md)
 
 Vilken mat lagar vi och varför? Hur tänker vi kring ekologi, lokal matproduktion, portionsstorlekar, andel grönt på tallriken?
 
-### [Hållbarhet](hallbarhet/)
+### ♻️ [Hållbarhet](hallbarhet/)
 
 Våra hållbarhetsmål och en logg över genomförda åtgärder.
 
