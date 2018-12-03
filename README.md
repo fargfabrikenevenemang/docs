@@ -24,6 +24,10 @@ Vilken mat lagar vi och varför? Hur tänker vi kring ekologi, lokal matprodukti
 
 Våra hållbarhetsmål och en logg över genomförda åtgärder.
 
+### [Tillgänglighet](tillganglighet.md)
+
+Hissar, framkomlighet för rullstol m.m.
+
 ### [Ritningar](ritningar.md)
 
 Skalenliga ritningar som PDF och i DWG-format.
