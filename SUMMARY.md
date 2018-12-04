@@ -10,3 +10,4 @@
 - [Ritningar](ritningar.md)
 - [Bokningsvillkor](bokningsvillkor.md)
 - [Likabehandlingspolicy](likabehandlingspolicy.md)
+- [Integritetspolicy](integritetspolicy.md)
