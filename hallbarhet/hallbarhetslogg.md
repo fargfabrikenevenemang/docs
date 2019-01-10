@@ -74,6 +74,14 @@ description: Logg för genomförda åtgärder.
 
 ## Sen gammalt
 
+### Elavtal
+
+- Bra miljövalmärkt el
+
+Fortums Bra Miljövalmärkta el kommer från vattenkraftverk i Indalsälven, Klarälven och Dalälven samt från vindkraftverk som uppfyller Naturskyddsföreningens kriterier.
+
+https://www.fortum.se/om-oss/hallbarhet/miljoarbete-inom-vattenkraft
+
 ### Kollektivavtal
 
 - All personal omfattas av kollektivavtal [https://www.schystavillkor.se](https://www.schystavillkor.se)
