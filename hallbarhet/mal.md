@@ -35,7 +35,7 @@ Ekologisk hållbarhet innefattar allt som har med jordens ekosystem att göra. D
 * Inriktning geografi
 * Inriktning typ av mat
 * Vegetariskt en integrerad del av menyn
-* Ökad andel ekologiskt - KRAV 25%
+* Ökad andel ekologiskt
 * Ökad andel regionalt - bra smak, bra för planeten
 * Följa säsong
 * Utmana / lära ut
@@ -54,7 +54,7 @@ Förbrukningsmaterial
 
 Öka andel ekologiskt på menyn
 
-* Certifiering KRAV 25%
+* Miljö-certifiering
 
 Svinn
 
