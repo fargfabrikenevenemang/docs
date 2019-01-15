@@ -28,58 +28,58 @@ Ekologisk hållbarhet innefattar allt som har med jordens ekosystem att göra. D
 
 ✅Ta fram en [matfilosofi](../matfilosofi.md)
 
-- Värna det svenska matkulturarvet
-- Portionsstorlek
-- Kött vs. grönt på tallriken
-- Kött vs grönt på menyn
-- Inriktning geografi
-- Inriktning typ av mat
-- Vegetariskt en integrerad del av menyn
-- Ökad andel ekologiskt - KRAV 25%
-- Ökad andel regionalt - bra smak, bra för planeten
-- Följa säsong
-- Utmana / lära ut
+* Värna det svenska matkulturarvet
+* Portionsstorlek
+* Kött vs. grönt på tallriken
+* Kött vs grönt på menyn
+* Inriktning geografi
+* Inriktning typ av mat
+* Vegetariskt en integrerad del av menyn
+* Ökad andel ekologiskt - KRAV 25%
+* Ökad andel regionalt - bra smak, bra för planeten
+* Följa säsong
+* Utmana / lära ut
 
 Förpackningsmaterial
 
-- Minskad användning
-- Komposterbart engångsmaterial
-- Förnyelsebar råvara
+* Minskad användning
+* Komposterbart engångsmaterial
+* Förnyelsebar råvara
 
 Förbrukningsmaterial
 
-- Minskad användning
-- Komposterbara förbrukningsmaterial
-- Förnyelsebar råvara
+* Minskad användning
+* Komposterbara förbrukningsmaterial
+* Förnyelsebar råvara
 
 Öka andel ekologiskt på menyn
 
-- Certifiering KRAV 25%
+* Certifiering KRAV 25%
 
 Svinn
 
-- Nollvision på svinn
-- Arbeta kontinuerligt med menyer, portionsstorlekar etc
+* Nollvision på svinn
+* Arbeta kontinuerligt med menyer, portionsstorlekar etc
 
 Rengöringsmedel
 
-- Minskad användning
-- Miljövänliga alternativ - Svanenmärkning
-- Människovänliga alternativ
+* Minskad användning
+* Miljövänliga alternativ - Svanenmärkning
+* Människovänliga alternativ
 
 Avfall / återvinning / återanvändning
 
-- Förbättrad sopsortering
+* Förbättrad sopsortering
 
 Lokalt / regionalt
 
-- Kortare transporter
-- Smak / kvalitet
+* Kortare transporter
+* Smak / kvalitet
 
 Energi
 
-- Sänk elförbrukning
-- Minska vattenåtgång
+* Sänk elförbrukning
+* Minska vattenåtgång
 
 ## Socialt / kulturellt
 
@@ -95,40 +95,41 @@ Bli en engagerad samhällsaktör närområde, stad
 
 Tradition / kultur
 
-- Mer lokal och regional mat
-- Support your community!
+* Mer lokal och regional mat
+* Support your community!
 
 Eftersträva mångfald på arbetsplatsen
 
-- Inkluderande
-- Återspegla sammhällets sammansättning
+* Inkluderande
+* Återspegla sammhällets sammansättning
 
 Jobba för jämlikhet / diskriminering
 
-- Värdegrund
-- Nolltolerans mot all form av diskriminering
+* Värdegrund
+* Nolltolerans mot all form av diskriminering
 
 Jobba kontinuerligt med att förbättra arbetsmiljön
 
-- Förslitningsskador
-- Farliga situationer
-- Ljudmiljö
-- Friskvård
-- Personalvård
+* Förslitningsskador
+* Farliga situationer
+* Ljudmiljö
+* Friskvård
+* Personalvård
 
 Tillgänglighet
 
-- Handikapp
-- Kostpreferens / allergi
+* Handikapp
+* Kostpreferens / allergi
 
 Etik / märkning
 
-- Fairtrade
-- UTZ
-- Rainforest Alliance
+* Fairtrade
+* UTZ
+* Rainforest Alliance
 
 ## Ekonomi
 
 Ekonomisk hållbarhet som en ekonomisk utveckling som inte medför negativa konsekvenser för den ekologiska eller sociala hållbarheten. En ökning av ekonomiskt kapital får alltså inte ske på bekostnad av en minskning i naturkapital eller socialt kapital.
 
 Det finns även de som avstår från att använda ekonomisk hållbarhet som begrepp för att istället prata om ekonomin som ett verktyg där dess strukturer och institutioner antingen främjar eller hämmar en hållbar utveckling.
+

@@ -1,4 +1,4 @@
-# integritetspolicy
+# Integritetspolicy
 
 Ditt besök på denna webbplats som drivs av Färgfabriken Evenemang AB regleras av nedanstående villkor.
 
@@ -6,7 +6,7 @@ Ditt besök på denna webbplats som drivs av Färgfabriken Evenemang AB regleras
 
 Denna webbplats ägs och drivs av Färgfabriken Evenemang AB. Denna integritetspolicy finns länkad längst ned på webbsidan som Färgfabriken Evenemang driver. Observera att villkoren i integritetspolicyn kan komma att ändras med tiden. Du bör därför läsa igenom dessa villkor med jämna mellanrum.
 
-Färgfabriken Evenemang följer alla de lagar och regler, inklusive personuppgiftslagen (1998:204) (PUL), som finns för att skydda privatpersoners integritet. Om du registrerar dig till tjänster som tillhandahålls via vår webbplats, beställer material, köper biljetter eller produkter lagras dina personuppgifter för att vi ska kunna tillgodose sådana tjänster och köp. Läs mer detaljerad information nedan under stycket Personuppgifter.
+Färgfabriken Evenemang följer alla de lagar och regler, inklusive personuppgiftslagen \(1998:204\) \(PUL\), som finns för att skydda privatpersoners integritet. Om du registrerar dig till tjänster som tillhandahålls via vår webbplats, beställer material, köper biljetter eller produkter lagras dina personuppgifter för att vi ska kunna tillgodose sådana tjänster och köp. Läs mer detaljerad information nedan under stycket Personuppgifter.
 
 När du besöker vår webbplats och/eller när du laddar ned sidor via en webbläsare eller når vår webbsida via e-mailklient registreras dina besök via s k cookies. Sådan information används bland annat till att ge upplysning om antalet besökare och vilka webbsidor på webbplatsen som besöks. Läs mer detaljerad information nedan under stycket Om cookies.
 
@@ -16,14 +16,15 @@ Färgfabriken Evenemang använder s k cookies på sin webbplats. En cookie är e
 
 ## Personuppgifter
 
-Färgfabriken Evenemang följer alla de lagar och regler, inklusive personuppgiftslagen (1998:204) (PUL), som finns för att skydda privatpersoners integritet. Genom att du registrerar dig på webbplatsen eller via annan kommunikationskanal registrerar dina personuppgifter, ger du samtidigt ditt samtycke till att dina uppgifter behandlas såsom beskrivet under denna rubrik.
+Färgfabriken Evenemang följer alla de lagar och regler, inklusive personuppgiftslagen \(1998:204\) \(PUL\), som finns för att skydda privatpersoners integritet. Genom att du registrerar dig på webbplatsen eller via annan kommunikationskanal registrerar dina personuppgifter, ger du samtidigt ditt samtycke till att dina uppgifter behandlas såsom beskrivet under denna rubrik.
 
 Färgfabriken Evenemangs register med personuppgifter, inhämtade från webbplatsen eller på annat sätt, är konfidentiella. Den information du som användare av webbplatsen gett oss, såsom kontaktuppgifter och övriga personuppgifter, kommer inte att användas på annat sätt än för att ge dig tillgång till information och tjänster från Färgfabriken Evenemang eller från tredje part godkänd av Färgfabriken Evenemang.
 
-För att ändra dina uppgifter, kontakta oss: [evenemang@fargfabriken.se](mailto:evenemang@fargfabriken.se) | 08-645 33 07
+För att ändra dina uppgifter, kontakta oss: [evenemang@fargfabriken.se](mailto:evenemang@fargfabriken.se) \| 08-645 33 07
 
-Vi använder dina personuppgifter för att fullgöra åtaganden, kundrelationer, marknadsföring och direktmarknadsföring såväl postalt som digitalt. Komplettering genom inhämtning från och samkörning med andra privata och offentliga register (exempelvis SPAR) vid t ex uppdatering av adressuppgifter kan komma att ske.
+Vi använder dina personuppgifter för att fullgöra åtaganden, kundrelationer, marknadsföring och direktmarknadsföring såväl postalt som digitalt. Komplettering genom inhämtning från och samkörning med andra privata och offentliga register \(exempelvis SPAR\) vid t ex uppdatering av adressuppgifter kan komma att ske.
 
 Personuppgifterna kan komma att lämnas ut till andra företag eller partners godkända av Färgfabriken Evenemang för nödvändig behandling på uppdrag av Färgfabriken Evenemang, t ex i samband med tryck och distribution eller för marknadsföring. Vid misstanke om brott lämnas personuppgifter ut till polis och andra relevanta myndigheter. Dina personuppgifter vidarebefordras aldrig utan sekretessavtal. Dina personuppgifter behandlas med modern informationsteknik och moderna informationskanaler.
 
 Borttagande av uppgifter Som användare av Färgfabriken Evenemangs webbplats kan du som användare när som helst återkalla avgivet samtycke. Du kan göra detta genom att kontakta oss på följande e-postadress: [evenemang@fargfabriken.se](mailto:evenemang@fargfabriken.se). Dina personuppgifter tas då bort ur Färgfabriken Evenemangs register.
+

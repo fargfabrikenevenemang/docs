@@ -27,3 +27,4 @@ Foton, exempel på genomförda evenemang, etc hittar du på [http://fargfabriken
 ## Plan 2
 
 [Ritning - Takvåningen](https://fargfabrikenevenemang.se/ffe-ritning-takvaningen.pdf)
+

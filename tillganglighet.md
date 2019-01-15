@@ -14,7 +14,7 @@ En parkeringsruta för dig med parkeringstillstånd för rörelsehindrade finns 
 
 ## Entré
 
-Följ husets högra sida och gränden ner, sväng vänster för att komma till Färgfabrikens huvudentré (70/140 cm).
+Följ husets högra sida och gränden ner, sväng vänster för att komma till Färgfabrikens huvudentré \(70/140 cm\).
 
 Kafé och lilla salen ligger på entréplan.
 
@@ -24,13 +24,13 @@ Det finns även hiss, se nedan.
 
 ## Hiss
 
-Hiss (90x140) finns tillgänglig till och från alla husets våningsplan.
+Hiss \(90x140\) finns tillgänglig till och från alla husets våningsplan.
 
-Hissen finns belägen i en separat ingång till höger om huvudentrén. Om du står framför Färgfabrikens huvudentré, rundar du husets högra hörn och följer gången tills det tar stopp. En svart bred dörr (80/110 cm) finns till vänster. Dörröppnare finns mitt emot dörren på staketet. Det finns även skylt på gården som visar vägen till hissen.
+Hissen finns belägen i en separat ingång till höger om huvudentrén. Om du står framför Färgfabrikens huvudentré, rundar du husets högra hörn och följer gången tills det tar stopp. En svart bred dörr \(80/110 cm\) finns till vänster. Dörröppnare finns mitt emot dörren på staketet. Det finns även skylt på gården som visar vägen till hissen.
 
 ## Toalett
 
-Toaletter, inklusive RWC - toalett (2.15x2.15 m, dörröppning 90 cm) finns på alla våningsplan.
+Toaletter, inklusive RWC - toalett \(2.15x2.15 m, dörröppning 90 cm\) finns på alla våningsplan.
 
 RWC - toalett är utrustad med larm-knapp och handtag på båda sidor om toalettstolen.
 
@@ -77,3 +77,4 @@ Egen matsäck är inte tillåten i våra lokaler.
 Utplacerade garderobsställningar i lokalerna är obevakade. Låsbara skåp finns i receptionen, du behöver en tiokrona.
 
 Vi har hjärtstartare och är medlemmar i Hjärtstartarregistret.
+

@@ -1,4 +1,4 @@
-# Dokumentation – Färgfabriken Evenemang
+# Dokumentation Färgfabriken Evenemang
 
 Hej!
 
@@ -39,3 +39,4 @@ Dessa villkor gäller när du bokar hos oss. I villkoren skriver vi en del om te
 ### [Likabehandlingspolicy](likabehandlingspolicy.md)
 
 Framtagen tillsammans med Stiftelsen Färgfabriken.
+

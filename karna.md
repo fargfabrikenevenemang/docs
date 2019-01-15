@@ -16,14 +16,14 @@ Kärnan är nånting påtagligt som ska kunna kommuniceras till alla som jobba
 
 Kärna ska vara tydlig, tilltalande och enkel.
 
-- Varför finns vi?
-- Vad gör vi?
-- Vem gör vi det för?
-- Hur gör vi det?
-- Vad innebär framgång för oss?
-- Hur blir vi framgångsrika?
-- Hur behöver vi utvecklas för att bibehålla vår position?
-- Har vi en USP? \(Unique Selling Point\)
+* Varför finns vi?
+* Vad gör vi?
+* Vem gör vi det för?
+* Hur gör vi det?
+* Vad innebär framgång för oss?
+* Hur blir vi framgångsrika?
+* Hur behöver vi utvecklas för att bibehålla vår position?
+* Har vi en USP? \(Unique Selling Point\)
 
 ## Vår kärna
 
@@ -56,3 +56,4 @@ Arbeta med detaljerna och paketeringen! Valet av musik, saltkar, ljussättning o
 Ta fokus på gästens upplevelse - gästens resa. Arbeta omsorgsfullt med samtliga delarna av den upplevelsen - från första säljmötet till inredning och alla delar av genomförandet.
 
 **Avgörande styrkor och konkurrensfördelar: lokalerna, maten, läget, profilen!**
+

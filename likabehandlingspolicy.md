@@ -23,3 +23,4 @@ Färgfabriken arbetar systematiskt med att förbättra arbetsmiljön för våra 
 Trivseln på arbetet är viktig för våra medarbetares hälsa. Såväl den fysiska som den psykosociala arbetsmiljön ska vara tillfredsställande.
 
 Vi strävar efter att alla, oavsett arbetsuppgift, ska ges möjlighet till både inflytande och utveckling. Färgfabriken har det yttersta ansvaret för arbetsmiljön och varje medarbetare har även ett eget ansvar att bidra till en bra arbetsmiljö.
+

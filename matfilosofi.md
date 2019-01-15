@@ -11,11 +11,11 @@ description: >-
 
 [https://fargfabrikenevenemang.se/ffe-matfilosofi.pdf](https://fargfabrikenevenemang.se/ffe-matfilosofi.pdf)
 
-- Mat i säsong
-- Regional och lokal mat
-- Hög andel ekologiskt
-- Mer grönt och mindre kött på tallriken
-- Nollvision för svinn
+* Mat i säsong
+* Regional och lokal mat
+* Hög andel ekologiskt
+* Mer grönt och mindre kött på tallriken
+* Nollvision för svinn
 
 Ingen kan göra allt men alla kan göra något! Färgfabrikens matfilosofi tar avstamp i ett hållbarhetsarbete som i grunden handlar om att göra medvetna val och att fundera över hur de valen påverkar planeten, den egna hälsan och människorna runt omkring oss.
 
@@ -25,6 +25,7 @@ Vi tycker det är superviktigt med lokal och regional matproduktion. Det handlar
 
 Ekologiskt? Det tycker vi känns helt logiskt! Vi är övertygade om att ekologiskt inte bara är bra för miljön utan även för smaken och näringsinnehållet.
 
-Färgfabriken är certifierade enligt KRAV 25% och jobbar kontinuerligt med att öka andelen ekologiskt i vårt sortiment. All fisk vi serverar är MSC-märkt.
+Färgfabriken jobbar kontinuerligt med att öka andelen ekologiskt i vårt sortiment. All fisk vi serverar är MSC-märkt.
 
 Hur borde tallriksmodellen se ut 2018? Vi vet att vi äter för mycket - för stora portioner och för mycket kött. Färgfabriken jobbar kontinuerligt med att se över portionsstorlekar och förhållande mellan grönt och kött på tallriken.
+
