@@ -4,6 +4,16 @@ description: Logg för genomförda åtgärder.
 
 # Hållbarhetslogg
 
+## 2019-01
+
+### Kontrollbesök HS Certifiering
+
+{% embed url="https://fargfabrikenevenemang.se/dl/190115\_Kontrollrapport\_KRAV.pdf" %}
+
+### Kontrollbesök miljöförvaltningen
+
+{% embed url="https://fargfabrikenevenemang.se/dl/190109\_Kontrollrapport\_Miljo.pdf" %}
+
 ## 2018-11
 
 ### Allt te i kaféet ekologiskt och rättvisemärkt
