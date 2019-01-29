@@ -4,9 +4,15 @@ Marknaden på Färgfabriken är en av Stockholms största marknader för design 
 
 Mer info kring vårmarknaden annonseras på sociala medier inom kort.
 
+👍Du kan redan nu [anmäla dig som utställare](anmalan.md).
+
 ## Datum 2019
 
-30/3-31/3 - Vårmarknad TBA - Höstmarknad TBA - Julmarknad
+30/3-31/3 - Vårmarknad 
+
+TBA - Höstmarknad 
+
+TBA - Julmarknad
 
 ## Information till utställare
 
