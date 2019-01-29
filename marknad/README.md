@@ -10,7 +10,6 @@ Mer info kring vårmarknaden annonseras på sociala medier inom kort.
 
 ## Information till utställare
 
-### [Anmälan och betalning](https://github.com/fargfabrikenevenemang/docs/tree/d396f389fdbebfdbb28e2af54cf9d9baf64c218e/marknad/marknad/anmalan.md)
+### [Anmälan och betalning](/marknad/marknad/anmalan.md)
 
-### [Praktisk info, frågor & svar](https://github.com/fargfabrikenevenemang/docs/tree/d396f389fdbebfdbb28e2af54cf9d9baf64c218e/marknad/marknad/anmalan.md)
-
+### [Praktisk info, frågor & svar](/marknad/marknad/anmalan.md)
