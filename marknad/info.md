@@ -1,8 +1,8 @@
 ---
-description: Information till utställare - praktisk info, frågor & svar.
+description: 'Information till utställare - praktisk info, frågor & svar.'
 ---
 
-# Marknad - praktisk info till försäljare
+# Praktisk info, frågor & svar
 
 ## Vad får jag sälja?
 
@@ -30,4 +30,5 @@ Om du säljer ömtåliga saker så kan det vara bra att ta med tidningspapper. D
 
 Vi har ett begränsat antal platser på vår parkering, men det finns en stor betalparkering ca 200m längre ner på gatan. Det år bra att köra in på vår parkering för att lasta in och ut.
 
-*VÄLKOMMEN!*
+_VÄLKOMMEN!_
+
