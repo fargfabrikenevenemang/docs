@@ -11,4 +11,6 @@
 * [Bokningsvillkor](bokningsvillkor.md)
 * [Likabehandlingspolicy](likabehandlingspolicy.md)
 * [Integritetspolicy](integritetspolicy.md)
-
+* [Marknad](marknad/README.md)
+  * [Anmälan och betalning](marknad/anmalan.md)
+  * [Praktisk info, frågor & svar](marknad/anmalan.md)
